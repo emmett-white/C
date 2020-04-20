@@ -1,7 +1,7 @@
 /*
   * Mini-Project: IP Address Validator
   * Author: Emmett
-  * Git: github.com/emmett-white/C/ip-validator
+  * Git: github.com/emmett-white/C/tree/master/ip-validator
   * Date: 20th April - Copyright (C) 2020
 */
 
